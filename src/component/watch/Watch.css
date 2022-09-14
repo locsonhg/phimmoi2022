@@ -1,0 +1,34 @@
+.watch-movie {
+    /* background-color: #000; */
+    background-color: rgb(24, 24, 24,.85);
+}
+
+.watch-movie h1 {
+    color: #fff;
+}
+
+.list-tap {
+    margin: 0 auto;
+    display: flex;
+    list-style: none;
+    color: #fff;
+    justify-content: center;
+    align-content: space-between;
+}
+.tap{
+    padding: 7px;
+    margin: 0 5px 15px 5px;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #3a3a3a;
+    color: #fff;
+}
+
+.tap a { 
+    color: #fff;
+}
+
+.tap:hover {
+    background: #ff9601;
+    color: #fff;
+}
